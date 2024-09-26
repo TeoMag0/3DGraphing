@@ -20,6 +20,6 @@ public class LineSegment extends Drawable{
 
     @Override
     public String toString(){
-        return points[0]+", "+points[1]
+        return points[0]+", "+points[1];
     }
 }
